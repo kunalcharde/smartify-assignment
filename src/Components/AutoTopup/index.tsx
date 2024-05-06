@@ -89,7 +89,7 @@ const AutoTopup = () => {
             marks={credits}
             min={5}
             max={30}
-            // slots={{ mark: MarkComponent }}
+            slots={{ mark: MarkComponent }}
           />
         </Box>
 
