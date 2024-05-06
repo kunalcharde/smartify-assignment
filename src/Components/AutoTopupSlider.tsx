@@ -12,7 +12,7 @@ const AutoTopupSlider = styled(Slider)({
       width: 20,
       backgroundColor: "#fff",
       border: "6px solid currentColor",
-      transition: "box-shadow 0.3s", // Add transition for smoother effect
+      transition: "box-shadow 0.3s", 
       "&:focus, &:hover, &.Mui-active, &.Mui-focusVisible": {
         boxShadow: "0px 0px 24px rgba(151, 71, 255, 0.8)",
       },
